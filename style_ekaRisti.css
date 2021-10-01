@@ -1,0 +1,64 @@
+*{
+    margin:0;
+}
+
+main{
+    background-color:#025949;
+    border: 1px solid black;
+    width: 486px;
+    height: 500px;
+    margin: auto;
+}
+main h1{
+    font-size: 48px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    padding-left: 20px;
+    text-align: center;
+    color: #f27052;
+}
+main h5{
+    font-size: 15px;
+    font-family: 'Bonheur Royale', cursive;   
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: -200px;
+    margin-top: 8px;
+    text-align: center;
+    color: #f27052;
+}
+#bil1, #bil2, #output{
+    width: 386px;
+    height: 40px;
+    margin-left:45px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40;
+    font-weight: bold;
+}
+#penjumlahan, #pembagian{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    width: 78px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 45px;
+}
+#pengurangan, #sisaBagi{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    width: 78px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 75px;
+}
+#perkalian, #perpangkatan{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    width: 78px;
+    height: 60px;
+    margin-top: 20px;
+    margin-left: 75px;
+}
